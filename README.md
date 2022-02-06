@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sam8500
+- 👀 I’m interested in LUA/RageUI
+- 🌱 I’m currently learning LUA
+- 📫 Working for discord.gg/honoris
